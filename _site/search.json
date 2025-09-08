@@ -1,0 +1,58 @@
+[
+  {
+    "objectID": "myportfolio/myportfolio.html",
+    "href": "myportfolio/myportfolio.html",
+    "title": "myportfolio",
+    "section": "",
+    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
+  },
+  {
+    "objectID": "myportfolio/myportfolio.html#quarto",
+    "href": "myportfolio/myportfolio.html#quarto",
+    "title": "myportfolio",
+    "section": "",
+    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome to My Website",
+    "section": "",
+    "text": "Welcome to my Quarto website.\n\n\n\nI love learning GitHub\n\n\n\n\n\nMy GitHub Profile\n\n\n\n\nBelow I build a small DataFrame and print the head( ).\nimport pandas as pd\ndata = { “month”: [“Jan”,“Feb”,“Mar”,“Apr”,“May”,“Jun”], “visitors”: [120, 150, 180, 160, 210, 240] } df = pd.DataFrame(data) df.head()"
+  },
+  {
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
+    "title": "Welcome to My Website",
+    "section": "",
+    "text": "I love learning GitHub"
+  },
+  {
+    "objectID": "index.html#useful-links",
+    "href": "index.html#useful-links",
+    "title": "Welcome to My Website",
+    "section": "",
+    "text": "My GitHub Profile"
+  },
+  {
+    "objectID": "index.html#a-tiny-dataset-python",
+    "href": "index.html#a-tiny-dataset-python",
+    "title": "Welcome to My Website",
+    "section": "",
+    "text": "Below I build a small DataFrame and print the head( ).\nimport pandas as pd\ndata = { “month”: [“Jan”,“Feb”,“Mar”,“Apr”,“May”,“Jun”], “visitors”: [120, 150, 180, 160, 210, 240] } df = pd.DataFrame(data) df.head()"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About Me",
+    "section": "",
+    "text": "This page demonstrates another embedded Python code cell that computes a quick summary.\n\n\nimport pandas as pd\nsales = pd.Series([12.5, 15.2, 14.0, 18.3, 19.1, 21.4, 17.8]) summary = { “count”: sales.count(), “mean”: round(sales.mean(), 2), “std”: round(sales.std(), 2), “min”: float(sales.min()), “max”: float(sales.max()) } summary"
+  },
+  {
+    "objectID": "about.html#simple-statistics-python",
+    "href": "about.html#simple-statistics-python",
+    "title": "About Me",
+    "section": "",
+    "text": "import pandas as pd\nsales = pd.Series([12.5, 15.2, 14.0, 18.3, 19.1, 21.4, 17.8]) summary = { “count”: sales.count(), “mean”: round(sales.mean(), 2), “std”: round(sales.std(), 2), “min”: float(sales.min()), “max”: float(sales.max()) } summary"
+  }
+]

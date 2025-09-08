@@ -1,0 +1,31 @@
+---
+title: "Welcome to My Website"
+author: "Wei Wang"
+date: "2025-09-07"
+format:
+  html:
+    theme: journal
+    toc: true
+---
+
+# Hello, World!
+Welcome to my Quarto website.
+
+## About Me
+- I love learning GitHub
+
+## Useful Links
+- [My GitHub Profile](https://github.com/vivwang-code)
+
+## A tiny dataset (Python)
+Below I build a small DataFrame and print the **head( )**.
+
+```{python}
+import pandas as pd
+
+data = {
+    "month": ["Jan","Feb","Mar","Apr","May","Jun"],
+    "visitors": [120, 150, 180, 160, 210, 240]
+}
+df = pd.DataFrame(data)
+df.head()
