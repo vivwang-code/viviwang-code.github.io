@@ -17,7 +17,7 @@ Welcome to my Quarto website.
 ## Useful Links
 - [My GitHub Profile](https://github.com/vivwang-code)
 
-## A tiny dataset (Python)
+## A Tiny Dataset (Python)
 Below I build a small DataFrame and print the **head( )**.
 
 ```{python}
