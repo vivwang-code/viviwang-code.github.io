@@ -1,0 +1,44 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About Me",
+    "section": "",
+    "text": "This page demonstrates another embedded Python code cell that computes a quick summary.\n\n\n\nimport pandas as pd\n\nsales = pd.Series([12.5, 15.2, 14.0, 18.3, 19.1, 21.4, 17.8])\nsummary = {\n    \"count\": sales.count(),\n    \"mean\": round(sales.mean(), 2),\n    \"std\": round(sales.std(), 2),\n    \"min\": float(sales.min()),\n    \"max\": float(sales.max())\n}\nsummary\n\n{'count': np.int64(7),\n 'mean': np.float64(16.9),\n 'std': np.float64(3.12),\n 'min': 12.5,\n 'max': 21.4}"
+  },
+  {
+    "objectID": "about.html#simple-statistics-python",
+    "href": "about.html#simple-statistics-python",
+    "title": "About Me",
+    "section": "",
+    "text": "import pandas as pd\n\nsales = pd.Series([12.5, 15.2, 14.0, 18.3, 19.1, 21.4, 17.8])\nsummary = {\n    \"count\": sales.count(),\n    \"mean\": round(sales.mean(), 2),\n    \"std\": round(sales.std(), 2),\n    \"min\": float(sales.min()),\n    \"max\": float(sales.max())\n}\nsummary\n\n{'count': np.int64(7),\n 'mean': np.float64(16.9),\n 'std': np.float64(3.12),\n 'min': 12.5,\n 'max': 21.4}"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome to My Website",
+    "section": "",
+    "text": "Welcome to my Quarto website.\n\n\n\nI love learning GitHub\n\n\n\n\n\nMy GitHub Profile\n\n\n\n\nBelow I build a small DataFrame and print the head( ).\n\nimport pandas as pd\n\ndata = {\n    \"month\": [\"Jan\",\"Feb\",\"Mar\",\"Apr\",\"May\",\"Jun\"],\n    \"visitors\": [120, 150, 180, 160, 210, 240]\n}\ndf = pd.DataFrame(data)\ndf.head()\n\n\n\n\n\n\n\n\nmonth\nvisitors\n\n\n\n\n0\nJan\n120\n\n\n1\nFeb\n150\n\n\n2\nMar\n180\n\n\n3\nApr\n160\n\n\n4\nMay\n210"
+  },
+  {
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
+    "title": "Welcome to My Website",
+    "section": "",
+    "text": "I love learning GitHub"
+  },
+  {
+    "objectID": "index.html#useful-links",
+    "href": "index.html#useful-links",
+    "title": "Welcome to My Website",
+    "section": "",
+    "text": "My GitHub Profile"
+  },
+  {
+    "objectID": "index.html#a-tiny-dataset-python",
+    "href": "index.html#a-tiny-dataset-python",
+    "title": "Welcome to My Website",
+    "section": "",
+    "text": "Below I build a small DataFrame and print the head( ).\n\nimport pandas as pd\n\ndata = {\n    \"month\": [\"Jan\",\"Feb\",\"Mar\",\"Apr\",\"May\",\"Jun\"],\n    \"visitors\": [120, 150, 180, 160, 210, 240]\n}\ndf = pd.DataFrame(data)\ndf.head()\n\n\n\n\n\n\n\n\nmonth\nvisitors\n\n\n\n\n0\nJan\n120\n\n\n1\nFeb\n150\n\n\n2\nMar\n180\n\n\n3\nApr\n160\n\n\n4\nMay\n210"
+  }
+]
