@@ -209,3 +209,5 @@ __marimo__/
 /.quarto/
 
 .DS_Store
+
+**/*.quarto_ipynb
