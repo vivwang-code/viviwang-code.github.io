@@ -5,10 +5,14 @@ website:
   title: "Wei Wang's Portfolio"
   navbar:
     left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
-  site-url: "https://vivwang-code.github.io/viviwang-code.github.io/"
+      - text: About
+        href: about.qmd
+      - text: Projects
+        href: projects.qmd
+      - text: CV
+        href: cv.qmd
+      - text: Contact
+        href: contact.qmd
 
 format:
   html:
