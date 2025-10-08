@@ -1,28 +1,36 @@
 ---
-title: "About Me"
-author: "Wei Wang"
-date: "2025-09-07"
+title: "About"
 format:
   html:
-    theme: journal
-    toc: true
+    toc: false
 ---
 
-# About Me
-This page demonstrates another embedded Python code cell that computes a quick summary.
+<center>
 
-## Simple statistics (Python)
+### ✨ ADVERTISING PROFESSIONAL | PRODUCT MARKETING MANAGER | DATA ANALYTICS ENTHUSIAST 📊
 
-```{python}
-import pandas as pd
+---
 
-sales = pd.Series([12.5, 15.2, 14.0, 18.3, 19.1, 21.4, 17.8])
-summary = {
-    "count": sales.count(),
-    "mean": round(sales.mean(), 2),
-    "std": round(sales.std(), 2),
-    "min": float(sales.min()),
-    "max": float(sales.max())
-}
-summary
-```
+</center>
+
+## Turning Insights Into Impact
+
+Wei Wang is an advertising professional with a passion for transforming data into actionable strategies, optimizing campaigns, and driving measurable business growth.  
+
+With years of experience in multicultural e-commerce and retail, she focuses on **product marketing, advertising strategy, and cross-functional execution**.
+
+As a **Product Marketing Manager (PMM)** devoted to **advertising and data analytics**, Wei bridges the gap between creative storytelling and performance measurement. She thrives on uncovering insights — identifying what moves the needle and designing programs that create meaningful value for both customers and advertisers.
+
+---
+
+## Current Focus
+
+- **Marketing Analytics** — Applying data to guide campaign strategy, media planning, and product-market fit  
+- **Advertising Operations** — Leading cross-functional teams and initiatives to improve efficiency and ROI  
+- **Learning Cloud & ML** — Exploring cloud-based tools and machine-learning frameworks
+
+<center>
+
+[📂 View Projects](projects.qmd){.btn .btn-primary style="margin-top: 20px;"}
+
+</center>
