@@ -1,44 +1,72 @@
 [
   {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "CV",
+    "section": "",
+    "text": "Wei Wang is an advertising and product-marketing professional with expertise in connecting creative storytelling and data-driven decision-making.\nWith years of experience in multicultural e-commerce and retail, she focuses on advertising strategy, analytics, and cross-functional execution that drive measurable business growth.\nCurrently pursuing an M.S. in Applied Business Analytics at Boston University, she bridges marketing insight with scalable data solutions."
+  },
+  {
+    "objectID": "cv.html#professional-summary",
+    "href": "cv.html#professional-summary",
+    "title": "CV",
+    "section": "",
+    "text": "Wei Wang is an advertising and product-marketing professional with expertise in connecting creative storytelling and data-driven decision-making.\nWith years of experience in multicultural e-commerce and retail, she focuses on advertising strategy, analytics, and cross-functional execution that drive measurable business growth.\nCurrently pursuing an M.S. in Applied Business Analytics at Boston University, she bridges marketing insight with scalable data solutions."
+  },
+  {
+    "objectID": "cv.html#download-my-cv",
+    "href": "cv.html#download-my-cv",
+    "title": "CV",
+    "section": "📄 Download My CV",
+    "text": "📄 Download My CV\n\n⬇️ Download CV (PDF)"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Welcome to My Website",
+    "title": "Wei Wang",
     "section": "",
-    "text": "Welcome to my Quarto website.\n\n\n\nI love learning GitHub\n\n\n\n\n\nMy GitHub Profile\n\n\n\n\nBelow I build a small DataFrame and print the head( ).\n\nimport pandas as pd\n\ndata = {\n    \"month\": [\"Jan\",\"Feb\",\"Mar\",\"Apr\",\"May\",\"Jun\"],\n    \"visitors\": [120, 150, 180, 160, 210, 240]\n}\ndf = pd.DataFrame(data)\ndf.head()\n\n\n\n\n\n\n\n\nmonth\nvisitors\n\n\n\n\n0\nJan\n120\n\n\n1\nFeb\n150\n\n\n2\nMar\n180\n\n\n3\nApr\n160\n\n\n4\nMay\n210"
+    "text": "Wei Wang\n\n\nAbout Projects CV Contact\n\n\n\n\n\n\nADVERTISING PROFESSIONAL | PRODUCT MARKETING MANAGER | DATA ANALYTICS ENTHUSIAST\n\n\n\nTurning Insights Into Impact\n\n\nWei Wang is an advertising professional with a passion for transforming data into actionable strategies, optimizing campaigns, and driving measurable business growth.\n\n\nWith years of experience in multicultural e-commerce and retail, she focuses on product marketing, advertising strategy, and cross-functional execution.\n\n\nAs a Product Marketing Manager (PMM) devoted to advertising and data analytics, Wei bridges the gap between creative storytelling and performance measurement.\n\n\nCurrent Focus\n\n\n\nMarketing Analytics — Applying data to guide campaign strategy, media planning, and product-market fit\n\n\nAdvertising Operations — Leading cross-functional teams and initiatives to improve efficiency and ROI\n\n\nLearning Cloud & ML — Exploring cloud-based tools and machine-learning frameworks\n\n\n\n\n\n\n\nFeatured Works\n\n\n&lt;div class=\"project-card\"&gt;\n  &lt;h3&gt;Job Market Analytics with Spark SQL&lt;/h3&gt;\n  &lt;img src=\"images/assignment2_plot.png\" alt=\"Assignment 2 Plot\"&gt;\n  &lt;a href=\"https://github.com/met-ad-688/assignment-02-vivwang-code.git\" target=\"_blank\" class=\"cta-btn\"&gt;See More →&lt;/a&gt;\n&lt;/div&gt;\n\n&lt;div class=\"project-card\"&gt;\n  &lt;h3&gt;Big Data Visualization on Scale with PySpark, Pandas, and Plotly&lt;/h3&gt;\n  &lt;img src=\"images/assignment3_plot.png\" alt=\"Assignment 3 Plot\"&gt;\n  &lt;a href=\"https://github.com/met-ad-688/assignment-03-vivwang-code.git\" target=\"_blank\" class=\"cta-btn\"&gt;See More →&lt;/a&gt;\n&lt;/div&gt;\n\n&lt;div class=\"project-card\"&gt;\n  &lt;h3&gt;Machine Learning on Scale – Salary Prediction Models&lt;/h3&gt;\n  &lt;img src=\"images/assignment4_plot.png\" alt=\"Assignment 4 Plot\"&gt;\n  &lt;a href=\"https://github.com/met-ad-688/assignment-04-vivwang-code.git\" target=\"_blank\" class=\"cta-btn\"&gt;See More →&lt;/a&gt;\n&lt;/div&gt;\n\n\n\n\n\n\nProfessional Summary\n\n\nWei Wang is an advertising and product marketing professional passionate about connecting creative strategy with data-driven decision-making. Currently pursuing an M.S. in Applied Business Analytics at Boston University, she bridges marketing insights with analytical problem-solving.\n\n\nBoston University, Metropolitan College — M.S. in Applied Business Analytics (Expected Dec 2025) Beijing Normal University — B.A. in Communication Studies (GPA 3.71 / 4.00)\n\n\n&lt;a href=\"files/Wei_Wang_CV.pdf\" class=\"cta-btn\" download&gt;⬇️ Download CV (PDF)&lt;/a&gt;\n\n\n\n\n\n\nLet’s Connect\n\n\nWhether it’s to discuss advertising strategy, product marketing, or data analytics — I’d love to connect and exchange ideas.\n\n\n&lt;p&gt;&lt;strong&gt;Email:&lt;/strong&gt; &lt;a href=\"mailto:im.viviwang@gmail.com\"&gt;im.viviwang@gmail.com&lt;/a&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;LinkedIn:&lt;/strong&gt; &lt;a href=\"https://www.linkedin.com/in/vivi-wang-610a04140/\"&gt;linkedin.com/in/weiwang&lt;/a&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;GitHub:&lt;/strong&gt; &lt;a href=\"https://github.com/vivwang-code\"&gt;github.com/vivwang-code&lt;/a&gt;&lt;/p&gt;\n\n\n\n\n© 2025 Wei Wang"
   },
   {
-    "objectID": "index.html#about-me",
-    "href": "index.html#about-me",
-    "title": "Welcome to My Website",
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
     "section": "",
-    "text": "I love learning GitHub"
+    "text": "Whether it’s to discuss advertising strategy, product marketing, or data analytics — I’d love to connect and exchange ideas.\n\n\n\n\nEmail: im.viviwang@gmail.com\nLinkedIn: linkedin.com/in/weiwang\nGitHub: https://github.com/vivwang-code"
   },
   {
-    "objectID": "index.html#useful-links",
-    "href": "index.html#useful-links",
-    "title": "Welcome to My Website",
+    "objectID": "contact.html#contact-information",
+    "href": "contact.html#contact-information",
+    "title": "Contact",
     "section": "",
-    "text": "My GitHub Profile"
+    "text": "Email: im.viviwang@gmail.com\nLinkedIn: linkedin.com/in/weiwang\nGitHub: https://github.com/vivwang-code"
   },
   {
-    "objectID": "index.html#a-tiny-dataset-python",
-    "href": "index.html#a-tiny-dataset-python",
-    "title": "Welcome to My Website",
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
     "section": "",
-    "text": "Below I build a small DataFrame and print the head( ).\n\nimport pandas as pd\n\ndata = {\n    \"month\": [\"Jan\",\"Feb\",\"Mar\",\"Apr\",\"May\",\"Jun\"],\n    \"visitors\": [120, 150, 180, 160, 210, 240]\n}\ndf = pd.DataFrame(data)\ndf.head()\n\n\n\n\n\n\n\n\nmonth\nvisitors\n\n\n\n\n0\nJan\n120\n\n\n1\nFeb\n150\n\n\n2\nMar\n180\n\n\n3\nApr\n160\n\n\n4\nMay\n210"
+    "text": "Featured Works\n\n\n\nJob Market Analytics with Spark SQL\n\n See More →\n\n\n\nBig Data Visualization on Scale with PySpark, Pandas, and Plotly\n\n See More →\n\n\n\nMachine Learning on Scale – Salary Prediction Models\n\n See More →"
   },
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About Me",
+    "title": "About",
     "section": "",
-    "text": "This page demonstrates another embedded Python code cell that computes a quick summary.\n\n\n\nimport pandas as pd\n\nsales = pd.Series([12.5, 15.2, 14.0, 18.3, 19.1, 21.4, 17.8])\nsummary = {\n    \"count\": sales.count(),\n    \"mean\": round(sales.mean(), 2),\n    \"std\": round(sales.std(), 2),\n    \"min\": float(sales.min()),\n    \"max\": float(sales.max())\n}\nsummary\n\n{'count': np.int64(7),\n 'mean': np.float64(16.9),\n 'std': np.float64(3.12),\n 'min': 12.5,\n 'max': 21.4}"
+    "text": "Profile"
   },
   {
-    "objectID": "about.html#simple-statistics-python",
-    "href": "about.html#simple-statistics-python",
-    "title": "About Me",
-    "section": "",
-    "text": "import pandas as pd\n\nsales = pd.Series([12.5, 15.2, 14.0, 18.3, 19.1, 21.4, 17.8])\nsummary = {\n    \"count\": sales.count(),\n    \"mean\": round(sales.mean(), 2),\n    \"std\": round(sales.std(), 2),\n    \"min\": float(sales.min()),\n    \"max\": float(sales.max())\n}\nsummary\n\n{'count': np.int64(7),\n 'mean': np.float64(16.9),\n 'std': np.float64(3.12),\n 'min': 12.5,\n 'max': 21.4}"
+    "objectID": "about.html#turning-insights-into-impact",
+    "href": "about.html#turning-insights-into-impact",
+    "title": "About",
+    "section": "Turning Insights Into Impact",
+    "text": "Turning Insights Into Impact\nWei Wang is an advertising professional with a passion for transforming data into actionable strategies, optimizing campaigns, and driving measurable business growth.\nWith years of experience in multicultural e-commerce and retail, she focuses on product marketing, advertising strategy, and cross-functional execution.\nAs a Product Marketing Manager (PMM) devoted to advertising and data analytics, Wei bridges the gap between creative storytelling and performance measurement. She thrives on uncovering insights — identifying what moves the needle and designing programs that create meaningful value for both customers and advertisers."
+  },
+  {
+    "objectID": "about.html#current-focus",
+    "href": "about.html#current-focus",
+    "title": "About",
+    "section": "Current Focus",
+    "text": "Current Focus\n\nMarketing Analytics — Applying data to guide campaign strategy, media planning, and product-market fit\n\nAdvertising Operations — Leading cross-functional teams and initiatives to improve efficiency and ROI\n\nLearning Cloud & ML — Exploring cloud-based tools and machine-learning frameworks"
   }
 ]
