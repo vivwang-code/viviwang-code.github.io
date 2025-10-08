@@ -14,8 +14,6 @@ format:
 :::
 :::
 
----
-
 ::: {#about}
 ## ADVERTISING PROFESSIONAL | PRODUCT MARKETING MANAGER | DATA ANALYTICS ENTHUSIAST
 
@@ -36,8 +34,6 @@ As a **Product Marketing Manager (PMM)** devoted to **advertising and data analy
 - **Learning Cloud & ML** — Exploring cloud-based tools and machine-learning frameworks
 
 :::
-
----
 
 ::: {#projects}
 ## Featured Works
@@ -68,8 +64,6 @@ As a **Product Marketing Manager (PMM)** devoted to **advertising and data analy
 :::
 :::
 
----
-
 ::: {#cv}
 ## Professional Summary
 
@@ -80,11 +74,9 @@ With years of experience in multicultural e-commerce and retail, she focuses on 
 Currently pursuing an **M.S. in Applied Business Analytics** at Boston University, she bridges marketing insight with scalable data solutions.
 
 ::: {.cv-download}
-[⬇️ Download CV (PDF)](files/Wei_Wang_CV.pdf){.cta-btn download="Wei_Wang_CV.pdf"}
+[Download CV (PDF)](Wei_Wang_CV.pdf){.cta-btn download="Wei_Wang_CV.pdf"}
 :::
 :::
-
----
 
 ::: {#contact}
 ## Let's Connect
