@@ -1,0 +1,24 @@
+---
+title: "Contact"
+format:
+  html:
+    toc: false
+---
+
+# Let’s Connect
+
+Whether it’s to discuss advertising strategy, product marketing, or data analytics — I’d love to connect and exchange ideas.
+
+---
+
+## Contact Information
+
+<div class="contact-info">
+
+**Email:** [im.viviwang@gmail.com](mailto:im.viviwang@gmail.com)  
+**LinkedIn:** [linkedin.com/in/weiwang](https://www.linkedin.com/in/vivi-wang-610a04140/)  
+**GitHub:** [https://github.com/vivwang-code](https://github.com/vivwang-code)
+
+</div>
+
+---
