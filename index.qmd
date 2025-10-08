@@ -1,32 +1,105 @@
 ---
-title: "Welcome to My Website"
-author: "Wei Wang"
-date: "2025-09-07"
+title: "Wei Wang"
 format:
   html:
-    theme: journal
-    toc: true
+    toc: false
+    css: styles.css
 ---
 
-# Hello, World!
-Welcome to my Quarto website.
+::: {.site-header}
+# Wei Wang
 
-## About Me
-- I love learning GitHub
+::: {.custom-nav}
+[About](#about) [Projects](#projects) [CV](#cv) [Contact](#contact)
+:::
+:::
 
-## Useful Links
-- [My GitHub Profile](https://github.com/vivwang-code)
+---
 
-## A Tiny Dataset (Python)
-Below I build a small DataFrame and print the **head( )**.
+::: {#about}
+## ADVERTISING PROFESSIONAL | PRODUCT MARKETING MANAGER | DATA ANALYTICS ENTHUSIAST
 
-```{python}
-import pandas as pd
+![](images/profile.png){.about-img}
 
-data = {
-    "month": ["Jan","Feb","Mar","Apr","May","Jun"],
-    "visitors": [120, 150, 180, 160, 210, 240]
-}
-df = pd.DataFrame(data)
-df.head()
-```
+### Turning Insights Into Impact
+
+Wei Wang is an advertising professional with a passion for transforming data into actionable strategies, optimizing campaigns, and driving measurable business growth.
+
+With years of experience in multicultural e-commerce and retail, she focuses on **product marketing, advertising strategy, and cross-functional execution**.
+
+As a **Product Marketing Manager (PMM)** devoted to **advertising and data analytics**, Wei bridges the gap between creative storytelling and performance measurement.
+
+### Current Focus
+
+- **Marketing Analytics** — Applying data to guide campaign strategy, media planning, and product-market fit
+- **Advertising Operations** — Leading cross-functional teams and initiatives to improve efficiency and ROI
+- **Learning Cloud & ML** — Exploring cloud-based tools and machine-learning frameworks
+
+:::
+
+---
+
+::: {#projects}
+## Featured Works
+
+::: {.projects-grid}
+
+::: {.project-card}
+### Job Market Analytics with Spark SQL
+![Assignment 2 Plot](images/assignment2_plot.png)
+
+[See More →](https://github.com/met-ad-688/assignment-02-vivwang-code.git){.cta-btn target="_blank"}
+:::
+
+::: {.project-card}
+### Big Data Visualization on Scale with PySpark, Pandas, and Plotly
+![Assignment 3 Plot](images/assignment3_plot.png)
+
+[See More →](https://github.com/met-ad-688/assignment-03-vivwang-code.git){.cta-btn target="_blank"}
+:::
+
+::: {.project-card}
+### Machine Learning on Scale – Salary Prediction Models
+![Assignment 4 Plot](images/assignment4_plot.png)
+
+[See More →](https://github.com/met-ad-688/assignment-04-vivwang-code.git){.cta-btn target="_blank"}
+:::
+
+:::
+:::
+
+---
+
+::: {#cv}
+## Professional Summary
+
+Wei Wang is an advertising and product-marketing professional with expertise in connecting creative storytelling and data-driven decision-making.  
+
+With years of experience in multicultural e-commerce and retail, she focuses on advertising strategy, analytics, and cross-functional execution that drive measurable business growth.  
+
+Currently pursuing an **M.S. in Applied Business Analytics** at Boston University, she bridges marketing insight with scalable data solutions.
+
+::: {.cv-download}
+[⬇️ Download CV (PDF)](files/Wei_Wang_CV.pdf){.cta-btn download="Wei_Wang_CV.pdf"}
+:::
+:::
+
+---
+
+::: {#contact}
+## Let's Connect
+
+Whether it's to discuss advertising strategy, product marketing, or data analytics — I'd love to connect and exchange ideas.
+
+::: {.contact-info}
+**Email:** [im.viviwang@gmail.com](mailto:im.viviwang@gmail.com)
+
+**LinkedIn:** [linkedin.com/in/weiwang](https://www.linkedin.com/in/vivi-wang-610a04140/)
+
+**GitHub:** [github.com/vivwang-code](https://github.com/vivwang-code)
+:::
+:::
+
+---
+
+© 2025 Wei Wang

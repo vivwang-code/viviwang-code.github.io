@@ -3,7 +3,7 @@ project:
 
 website:
   title: "Wei Wang"
-  navbar:
+  navbar: false
     left:
       - text: About
         href: about.qmd
@@ -18,7 +18,7 @@ format:
   html:
     theme: cosmo
     css: styles.css
-    toc: true
+    toc: false
 
 
 

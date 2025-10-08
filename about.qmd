@@ -7,7 +7,8 @@ format:
 
 <center>
 
-### ✨ ADVERTISING PROFESSIONAL | PRODUCT MARKETING MANAGER | DATA ANALYTICS ENTHUSIAST 📊
+### ADVERTISING PROFESSIONAL | PRODUCT MARKETING MANAGER | DATA ANALYTICS ENTHUSIAST
+![Profile](images/profile.png){width=120px style="border-radius: 50%; margin-top: 20px;"}
 
 ---
 
@@ -28,9 +29,3 @@ As a **Product Marketing Manager (PMM)** devoted to **advertising and data analy
 - **Marketing Analytics** — Applying data to guide campaign strategy, media planning, and product-market fit  
 - **Advertising Operations** — Leading cross-functional teams and initiatives to improve efficiency and ROI  
 - **Learning Cloud & ML** — Exploring cloud-based tools and machine-learning frameworks
-
-<center>
-
-[📂 View Projects](projects.qmd){.btn .btn-primary style="margin-top: 20px;"}
-
-</center>
