@@ -1,0 +1,22 @@
+---
+title: "CV"
+format:
+  html:
+    toc: false
+---
+
+## Professional Summary
+
+Wei Wang is an advertising and product-marketing professional with expertise in connecting creative storytelling and data-driven decision-making.  
+
+With years of experience in multicultural e-commerce and retail, she focuses on advertising strategy, analytics, and cross-functional execution that drive measurable business growth.  
+
+Currently pursuing an **M.S. in Applied Business Analytics** at Boston University, she bridges marketing insight with scalable data solutions.
+
+---
+
+## 📄 Download My CV
+
+<center>
+<a href="Wei_Wang_CV.pdf" class="cta-btn" download>⬇️ Download CV (PDF)</a>
+</center>
