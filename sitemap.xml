@@ -1,11 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://vivwang-code.github.io/viviwang-code.github.io/about.html</loc>
-    <lastmod>2025-09-09T05:23:46.815Z</lastmod>
+    <loc>https://vivwang-code.github.io/cv.html</loc>
+    <lastmod>2025-10-07T14:39:30.384Z</lastmod>
   </url>
   <url>
-    <loc>https://vivwang-code.github.io/viviwang-code.github.io/index.html</loc>
-    <lastmod>2025-09-09T05:23:46.815Z</lastmod>
+    <loc>https://vivwang-code.github.io/index.html</loc>
+    <lastmod>2025-10-07T14:31:21.831Z</lastmod>
+  </url>
+  <url>
+    <loc>https://vivwang-code.github.io/contact.html</loc>
+    <lastmod>2025-10-07T14:39:52.054Z</lastmod>
+  </url>
+  <url>
+    <loc>https://vivwang-code.github.io/projects.html</loc>
+    <lastmod>2025-10-07T14:39:02.761Z</lastmod>
+  </url>
+  <url>
+    <loc>https://vivwang-code.github.io/about.html</loc>
+    <lastmod>2025-10-07T14:42:06.934Z</lastmod>
   </url>
 </urlset>
